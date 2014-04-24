@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+
+# Copyright (C) 2014 <Alpen-Adria Universitaet, Software Engineering Research Group (SERG) - http://serg.aau.at/> 
+
+# Authors:
+# Athanasios-Ilias Rousinopoulos <Athanasios-Ilias.Rousinopoulos@aau.at>, <athanrous@gmail.com>, <zoumpis@opensuse.org>
+
 import xmltodict
 import sys
 import MySQLdb
@@ -948,7 +954,7 @@ class Log():
 def main():
     
     #First you have to crate the table log then the table deltas  
-    #and then the table reviews_log.After that you can compute the statistics about deltas"""
+    #and then the table reviews_log.After that you can compute the statistics about deltas
   
    zpath = "your/path/to/xml/file"
    zcreds = "/credentials.xml"
