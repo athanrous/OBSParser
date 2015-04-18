@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2014 <Alpen-Adria Universitaet, Software Engineering Research Group (SERG) - http://serg.aau.at/> 
+# Copyright (C) 2015 
 
 # Authors:
-# Athanasios-Ilias Rousinopoulos <Athanasios-Ilias.Rousinopoulos@aau.at>, <athanrous@gmail.com>, <zoumpis@opensuse.org>
+# Athanasios-Ilias Rousinopoulos <athanrous@gmail.com>, <zoumpis@opensuse.org>
 
 import xmltodict
 import sys
