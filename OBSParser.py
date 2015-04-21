@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Copyright (C) 2015 
+# Copyright (C) 2014-2015 
 
 # Authors:
 # Athanasios-Ilias Rousinopoulos <athanrous@gmail.com>, <zoumpis@opensuse.org>
